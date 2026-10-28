@@ -1,54 +1,115 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:123c37,100:1c6b55&height=210&section=header&text=LUAN%20VINICIUS&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Founder%20of%20Lumina%20Interactive&descAlignY=59&descSize=16" alt="Luan Vinicius — Developer & Founder of Lumina Interactive" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:060913,45:142b40,100:00bfa6&text=LUAN%20VINICIUS&fontColor=E8FFFF&fontSize=43&fontAlignY=36&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=57&descSize=15&animation=fadeIn" alt="Luan Vinicius — system initialized" />
 
-### Olá, eu sou Luan Vinicius.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3300&pause=1000&color=32E6C4&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+world.+I'm+Luan+Vinicius;%3E+Founder+of+Lumina+Interactive;%3E+Building+software%2C+games+%26+digital+experiences;%3E+System+online.+Welcome+to+my+GitHub." alt="Typing animation introducing Luan Vinicius" />
 
-**Desenvolvimento de software, jogos e experiências digitais.**
-
-Fundador da **Lumina Interactive**, atuo na criação e evolução de projetos digitais, desenvolvimento web, interfaces e modificações de jogos.
-
-[![GitHub](https://img.shields.io/badge/GitHub-luanvdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanvdev)
-[![Lumina Interactive](https://img.shields.io/badge/Lumina-Interactive-17614d?style=for-the-badge)](https://github.com/luminainteractivebr)
+[![GitHub](https://img.shields.io/badge/GitHub-luanvdev-141c2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanvdev)
+[![Lumina Interactive](https://img.shields.io/badge/Lumina-Interactive-0b665c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luminainteractivebr)
+![Profile views](https://komarev.com/ghpvc/?username=luanvdev&color=00bfa6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### Sobre mim
+### `01 // SOBRE MIM`
 
-- Fundador da **Lumina Interactive**.
-- Interesse em **software, desenvolvimento web, UI/UX e jogos**.
-- Trabalho em projetos próprios e iniciativas ligadas ao universo dos games.
-- Baseado em **Feira de Santana, Bahia — Brasil**.
+```js
+const developer = {
+  nome: "Luan Vinicius",
+  local: "Feira de Santana, Bahia — Brasil",
+  funcao: "Fundador da Lumina Interactive",
+  interesses: ["Desenvolvimento web", "Jogos", "UI/UX", "Software"],
+  status: "Building the next project..."
+};
+```
 
-### Projetos
+Desenvolvo projetos de **software, jogos e experiências digitais**. Sou fundador da **[Lumina Interactive](https://github.com/luminainteractivebr)** e atuo na criação de interfaces, ferramentas e projetos ligados ao universo dos games.
 
-| Projeto | Descrição |
-| :--- | :--- |
-| [Penalty Shooters 2](https://github.com/luanvdev/penalty-shooters-2) | Modificações e novas funcionalidades para um jogo de futebol. |
-| [Lince Sports](https://github.com/luanvdev/lince-sports) | Projeto de kits e recursos para jogos de futebol. |
-| [Lumina Interactive](https://github.com/luanvdev/Lumina-interactive-site) | Presença digital e iniciativas da Lumina Interactive. |
-
-### Atuação na Lumina Interactive
-
-**GMP Group** · Projetos e modificações de jogos  
-**Lumina Studio** · Desenvolvimento, design e soluções digitais  
-**Lince Sports** · Kits e recursos para jogos de futebol  
-**LMI Sports** · Conteúdo audiovisual e transmissões esportivas
-
-### Atividade no GitHub
+### `02 // TECH STACK & TOOLS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luanvdev&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br" alt="Estatísticas do GitHub de Luan Vinicius" />
+**Tecnologias presentes nos meus projetos**
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luanvdev&theme=github-compact&hide_border=true" alt="Gráfico de contribuições de Luan Vinicius" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git e GitHub" />
+
+**Ferramentas e ambiente de desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" alt="VS Code, GitHub e Figma" />
+
+</div>
+
+### `03 // PROJETOS EM DESTAQUE`
+
+<div align="center">
+<a href="https://github.com/luanvdev/penalty-shooters-2">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=luanvdev&repo=penalty-shooters-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=32E6C4&text_color=B8C5D6&icon_color=32E6C4" alt="Penalty Shooters 2" />
+</a>
+<a href="https://github.com/luanvdev/lince-sports">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=luanvdev&repo=lince-sports&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=32E6C4&text_color=B8C5D6&icon_color=32E6C4" alt="Lince Sports" />
+</a>
+<a href="https://github.com/luanvdev/Lumina-interactive-site">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=luanvdev&repo=Lumina-interactive-site&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=32E6C4&text_color=B8C5D6&icon_color=32E6C4" alt="Lumina Interactive Site" />
+</a>
+<a href="https://github.com/luanvdev/Feira1823">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=luanvdev&repo=Feira1823&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=32E6C4&text_color=B8C5D6&icon_color=32E6C4" alt="Feira1823" />
+</a>
+</div>
+
+### `04 // CURRENT OBJECTIVES`
+
+```text
+┌─ LUAN@DEV ~ /roadmap
+│
+├─ [>] Evoluir projetos de jogos e ferramentas digitais
+├─ [>] Desenvolver interfaces mais modernas e funcionais
+├─ [>] Expandir o ecossistema da Lumina Interactive
+└─ [●] STATUS: DEVELOPMENT IN PROGRESS
+```
+
+### `05 // GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luanvdev&show_icons=true&theme=github_dark&hide_border=true&title_color=32E6C4&icon_color=32E6C4&include_all_commits=true" alt="GitHub statistics" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanvdev&layout=compact&theme=github_dark&hide_border=true&title_color=32E6C4&langs_count=6" alt="Top languages" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=luanvdev&theme=github-dark-blue&hide_border=true&ring=32E6C4&fire=32E6C4&currStreakLabel=32E6C4" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luanvdev&theme=github-compact&hide_border=true&color=32E6C4&line=32E6C4&point=FFFFFF" alt="GitHub activity graph" />
+
+</div>
+
+### `06 // ACHIEVEMENTS`
+
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=luanvdev&theme=algolia&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+### `07 // CONTRIBUTION SNAKE`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/luanvdev/luanvdev/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation (generated by GitHub Actions)" />
+</div>
+
+> A animação acima é produzida pelo workflow em `.github/workflows/snake.yml`. Ela só aparecerá após a primeira execução bem-sucedida.
+
+### `08 // CONNECT`
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@luanvdev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanvdev)
+[![Lumina Interactive](https://img.shields.io/badge/Lumina-Interactive-0b665c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luminainteractivebr)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Desenvolvendo ideias, projetos e experiências digitais.</sub>
+
+<sub><code>END OF TRANSMISSION // LUAN VINICIUS</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:060913,45:142b40,100:00bfa6" alt="Footer" />
+
 </div>
